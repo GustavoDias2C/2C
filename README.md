@@ -5,7 +5,7 @@ Repositório Turma 2C
 #Este é o repositório do aluno: Gustavo Dias#
 Sejam Bem-Vindo
 
-![image](https://github.com/GustavoDias2C/2C/assets/170723042/2bed3cc9-6cae-4550-adfb-958fafee08cc)
+![image](https://github.com/GustavoDias2C/2C/assets/170723042/412b0f1d-564c-456b-9113-ed72d366e6c2)
 
 
 
